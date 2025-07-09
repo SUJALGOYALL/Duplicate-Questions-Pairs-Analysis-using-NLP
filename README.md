@@ -18,7 +18,7 @@ These questions are different in structure but share the same intent.
 
 ## 📁 Dataset Overview
 
-- **Source**: [Quora First Dataset Release](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)
+- **Source**: [Quora First Dataset Release](https://www.kaggle.com/datasets/quora/question-pairs-dataset)
 - **Columns**:
   - `id`: Unique ID for the question pair
   - `qid1`, `qid2`: Unique IDs for each question
@@ -69,7 +69,7 @@ These questions are different in structure but share the same intent.
 
 ## 🙏 Acknowledgements
 
-- [Quora’s Dataset Announcement](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)
+- [Quora’s Dataset Announcement](https://www.kaggle.com/datasets/quora/question-pairs-dataset)
 - Thanks to Quora for enabling open research in semantic similarity tasks.
 
 ---
